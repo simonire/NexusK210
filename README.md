@@ -10,4 +10,6 @@
 
 3.两个TypeC，上面一个是K210的烧录、下载串口，使用CH340C芯片，下面一个是STM32的串口1通信，用的是CP2102芯片。
 
+4.历程可以参考：[基于 MaixPy 项目的代码](https://github.com/simonire/k210-MaixPy-of-Hardware)
+
 **最后，喜欢的话记得给仓库点星星，点个fork~**
